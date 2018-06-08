@@ -7,7 +7,8 @@
 <p>Learn the method, get better at it.</p>
 <p>If you get good enough, you can get paid for it.</p>
 <div class="container">
-     
+  <div class="row">
+    <div class="col-sm-4">
       <h3>Questions</h3>
       <li>	 What development tools have you used?	</li>
 <li>	 What languages have you programmed in?	</li>
@@ -38,5 +39,18 @@
 <li>	 What have you done to ensure consistency across unit, quality, and production environments?	</li>
 
     </div>
+    <div class="col-sm-4">
+      <h3>Code Challenges</h3>
+      <ul>
+      <li>	 Fizzbuzz	</li>
+      </ul>
+    </div>
+    <div class="col-sm-4">
+      <h3>Other</h3>        
+      <p>Something important</p>
+     
+    </div>
+  </div>
+</div>
 </body>
 </html>
