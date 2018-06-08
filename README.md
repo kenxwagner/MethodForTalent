@@ -38,19 +38,11 @@
 <li>	 When is the last time you downloaded a utility from the internet to make your work more productive, and what was it?	</li>
 <li>	 What have you done to ensure consistency across unit, quality, and production environments?	</li>
 
-    </div>
-    <div class="col-sm-4">
-      <h3>Code Challenges</h3>
-      <ul>
-      <li>	 Fizzbuzz	</li>
-      </ul>
-    </div>
-    <div class="col-sm-4">
-      <h3>Other</h3>        
-      <p>Something important</p>
+      </div>
+
+      
      
     </div>
   </div>
-</div>
 </body>
 </html>
