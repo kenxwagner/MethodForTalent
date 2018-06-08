@@ -7,7 +7,7 @@
 <p>Learn the method, get better at it.</p>
 <p>If you get good enough, you can get paid for it.</p>
 <div class="container">
-     <div class="col-sm-4">
+     
       <h3>Questions</h3>
       <li>	 What development tools have you used?	</li>
 <li>	 What languages have you programmed in?	</li>
