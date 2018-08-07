@@ -1,0 +1,29 @@
+{
+  "name": "methodfortalent",
+  "version": "1.0.0",
+  "description": "Practice techniques to be better.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenxwagner/MethodForTalent.git"
+  },
+  "keywords": [
+    "talent",
+    "talent",
+    "seeker",
+    "improve",
+    "improve",
+    "talent",
+    "job",
+    "searching"
+  ],
+  "author": "Ken Wagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenxwagner/MethodForTalent/issues"
+  },
+  "homepage": "https://github.com/kenxwagner/MethodForTalent#readme"
+}
