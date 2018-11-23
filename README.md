@@ -7,6 +7,8 @@
 <p>Learn the method, get better at it.</p>
 <p>If you get good enough, you can get paid for it.</p>
       
-     
+     //10 minutes
+     //30 minutes 
+     //60 minutes 
 </body>
 </html>
