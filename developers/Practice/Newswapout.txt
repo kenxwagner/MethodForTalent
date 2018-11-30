@@ -1,0 +1,12 @@
+void newSwapMinMax(int[] array){
+	int minIndex = getMinIndex(array);
+	int maxIndex = getMaxIndex(array);
+	swap(array, minIndex, maxIndex);
+}
+
+int getMinIndex(int[] array){
+}
+int getMaxIndex(int[] array){
+}
+void swap(int[] array, int m int n) {
+}
