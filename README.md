@@ -7,9 +7,10 @@
 <p>Learn the method, get better at it.</p>
 <p>If you get good enough, you can get paid for it.</p>
 <p>Practice and improve</p>
-      
-     //10 minutes
-     //30 minutes 
-     //60 minutes 
+     <ul> 
+     <li> 10 minutes -> Create a simple app or a component.</li>
+     <li> 30 minutes </li>
+      <li> 60 minutes</li> 
+     </ul>
 </body>
 </html>
