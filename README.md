@@ -12,5 +12,11 @@
      <li> 30 minutes </li>
       <li> 60 minutes</li> 
      </ul>
+     <br><p>Questions</p>
+     <ul>
+     <li>What is your talent?     </li>
+     <li>What is the path to the skills goal?     </li>
+     <li>What or who helps validate proof of the skill?     </li>
+     <li>General services? Volunteer services? Homework?     </li>
 </body>
 </html>
