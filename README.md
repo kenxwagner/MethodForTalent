@@ -8,10 +8,13 @@
 <p>If you get good enough, you can get paid for it.</p>
 <p>Practice and improve</p>
      <ul> 
-     <li> 10 minutes -> Create a simple app or a component.</li>
+     <li> 10 minutes? Talk about these fundamentals? </li>
+     <ul></ul>
      <li> 30 minutes </li>
       <li> 60 minutes</li> 
      </ul>
+     <ul>
+</ul>
      
 </body>
 </html>
