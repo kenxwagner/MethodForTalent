@@ -20,8 +20,8 @@
      <li> Job seeking drills</li>
      <ul></ul>
      <li> Language Questions</li>
-      <li> Code Challenges</li> 
-     <li>HackerRank.com</li>
+      <li> Code Challenges</li> <ul>
+     <li>HackerRank.com</li></ul>
       <li> Behavior Questions</li> 
      </ul>
      <ul>
