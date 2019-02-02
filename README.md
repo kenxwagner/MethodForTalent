@@ -15,6 +15,17 @@
      </ul>
      <ul>
 </ul>
+<br>
+ <ul> 
+     <li> Job seeking drills</li>
+     <ul></ul>
+     <li> Language Questions</li>
+      <li> Code Challenges</li> 
+     <li>HackerRank.com</li>
+      <li> Behavior Questions</li> 
+     </ul>
+     <ul>
+</ul>
      
 </body>
 </html>
