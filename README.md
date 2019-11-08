@@ -7,7 +7,7 @@
 <p>Learn the method, get better at it.</p>
 <p>Definition of method: <br>
 A procedure or process for attaining an object: such as a systematic procedure, technique, or mode of inquiry employed by or proper to a particular discipline or art.Upda</p>
-<p>The early stages of this site will be in the Tech Sector.</p>
+<p>The early stages of this site will be in the software development world.</p>
 <p>Practice and improve</p>
      <ul> 
      <li> 10 minutes? Talk about these fundamentals? </li>
