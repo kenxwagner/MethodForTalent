@@ -27,7 +27,7 @@ A procedure or process for attaining an object: such as a systematic procedure, 
       <li> Behavior Questions</li> 
           <li> Other Questions</li> 
      </ul>
-<li>How I Would Fix It for Applications. </li><li>Bug finder practice. </li>
+<li>How I Would Fix It for Applications. </li><p>Here you would make your verson of an application that you think needs improvement.<li>Bug finder practice. </li>
      <ul>
 </ul>
      
