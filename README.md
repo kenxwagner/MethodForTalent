@@ -10,7 +10,7 @@ A procedure or process for attaining an object: such as a systematic procedure, 
 <p>The early stages of this site will be in the software development world.</p>
 <p>Practice and improve</p>
      <ul> 
-     <li> 10 minutes? Talk about these fundamentals? </li>
+     <li> 10 minutes? Talk about fundamentals? </li>
      <ul></ul>
      <li> 30 minutes </li>
       <li> 60 minutes</li> 
