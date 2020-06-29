@@ -11,7 +11,7 @@ A procedure or process for attaining an object: such as a systematic procedure, 
 <p>Practice and improve</p>
      <ul> 
      <li> 10 minutes? Talk about fundamentals? </li>
-     <ul></ul>
+     <ul></ul> <li> 20 minutes </li>
      <li> 30 minutes </li>
       <li> 60 minutes</li> 
      </ul>
