@@ -19,10 +19,11 @@ A procedure or process for attaining an object: such as a systematic procedure, 
 </ul>
 <br>
  <ul> <li>Stacks and Queues</li>
-     <li> Job seeking drills</li>
-     <ul>Code assessments.</ul>
+    
      <li> Language Questions</li>
       <li> Code Challenges</li> <ul>
+       <li> Job seeking drills</li>
+     <ul>Code assessments</ul>
      <li>HackerRank.com</li></ul>
       <li> Behavior Questions</li> 
           <li> Other Questions</li> 
