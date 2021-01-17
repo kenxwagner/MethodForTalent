@@ -3,3 +3,16 @@
 function greet(name){
   return "Hello, " + (name == "Johnny" ? "my love" : name) + "!";
 }
+
+function getFee(isMember) {
+  return (isMember ? '$112.00' : '$510.00');
+}
+
+console.log(getFee(true));
+// expected output: "$112.00"
+
+console.log(getFee(false));
+// expected output: "$510.00"
+
+console.log(getFee(null));
+// expected output: "$510.00"
