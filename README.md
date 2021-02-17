@@ -14,7 +14,7 @@ A procedure or process for attaining an object: such as a systematic procedure, 
      <ul></ul> <li> 20 minutes - create a function </li>
      <li> 30 minutes- solve an easy coding question </li>
       <li> 60 minutes - mock interview time.</li> 
-     <li> More?</li> 
+     <li> More time?</li> 
      </ul>
      <ul>
 </ul>
